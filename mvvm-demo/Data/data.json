@@ -1,0 +1,16 @@
+[{
+    "name":"Spaghetti",
+    "cuisine":"Italian",
+    "madeby":"Zeeshan"
+},
+    {
+        "name":"Sushi",
+        "cuisine":"Japenees",
+        "madeby":"Zeeshan"
+    },
+    {
+        "name":"Burger",
+        "cuisine":"Americans",
+        "madeby":"Zeeshan"
+    }
+]
